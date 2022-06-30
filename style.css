@@ -119,3 +119,21 @@ body{
 #end_game{
     display: none;
 }
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .main > .inner-main{
+        background-color: rgb(0, 255, 234);
+        background: linear-gradient(30deg, rgb(0, 174, 255), rgb(0, 255, 191));
+    }
+
+    .inner-main > .box{
+        width: 100%;
+    }
+  }
