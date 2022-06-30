@@ -1,4 +1,4 @@
-/* Guess Puzzle Game. Version: v1.2.0 */
+/* Guess Puzzle Game. Version: v1.3.0 */
 var startGame = document.querySelector("#start_game");
 var endGame = document.querySelector("#end_game");
 var guessNum = 0;
